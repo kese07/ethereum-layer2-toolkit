@@ -3,7 +3,7 @@
 # Ethereum Layer 2 Toolkit
 
 ## Overview  
-The **Ethereum Layer 2 Toolkit** empowers developers to easily build, test, and deploy applications on **Ethereum Layer 2 networks**. It provides developer tools for **revenue sharing**, **NFT ticketing**, and **data storage integration** with **Filecoin**.
+The **Ethereum Layer 2 Toolkit** empowers developers to easily build, test, and deploy applications on **Ethereum Layer 2 networks**. It provides developer tools for **revenue sharing**, **NFT ticketing**, and **data storage integration** with **lisk**.
 
 ## Key Features  
 - **Deployment Toolkit**: Easily deploy smart contracts to Ethereum Layer 2.  
