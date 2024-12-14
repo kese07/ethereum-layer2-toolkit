@@ -40,7 +40,7 @@ By focusing on **modular, easy-to-use developer tools**, we aim to **drive the a
 - Deliver **core features** for Ethereum Layer 2 networks: deployment tools, revenue-sharing contracts, and NFT ticketing.
 
 ### **Milestone 2: Feedback & Optimization (Month 3-4)** 💬
-- Gather **user feedback**, refine platform tools, and ensure **Filecoin compatibility** for decentralized storage.
+- Gather **user feedback**, refine platform tools, and ensure **etherium compatibility** for decentralized storage.
 
 ### **Milestone 3: Mainnet Deployment & Scaling (Month 5-6)** 🌐
 - Deploy toolkit on **mainnet**, onboard 500+ developers, and scale storage capabilities.
